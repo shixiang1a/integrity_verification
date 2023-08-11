@@ -14,4 +14,6 @@
 ## Train 
 
 You can start training by setting the **base model** and **dataset** \
-`python train.py --bert_model model_name --dataset_mode dataset_name`
+```
+python train.py --bert_model model_name --dataset_mode dataset_name
+```
