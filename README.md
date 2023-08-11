@@ -1,5 +1,7 @@
 # integrity_verification
 
+This is the code for the article *Integrity Verification for Scientific Papers: The first exploration of the text*.
+
 ## Dataset
 
 * INTER-WCL
