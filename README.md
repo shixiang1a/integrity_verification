@@ -10,8 +10,8 @@ This is the code for the article *Integrity Verification for Scientific Papers: 
   
 ## Base Model
 
-* Bert-base-uncased   (https://huggingface.co/bert-base-uncased) 
-* Scibert-base-uncased   (https://huggingface.co/allenai/scibert_scivocab_uncased)
+* bert-base-uncased   (https://huggingface.co/bert-base-uncased) 
+* scibert-base-uncased   (https://huggingface.co/allenai/scibert_scivocab_uncased)
 
 ## Train 
 
