@@ -1,12 +1,17 @@
 # integrity_verification
 
-Dataset:
+## Dataset
 
-Integrity Dataset for WCL (INTER-WCL)
-Integrity Dataset for AI (INTER-AI)
-Integrity Dataset for Symbol (INTER-SYM)
+* INTER-WCL
+* INTER-AI
+* INTER-SYM
+  
+## Base Model
 
-Model
+* Bert-base-uncased   (https://huggingface.co/bert-base-uncased) 
+* Scibert-base-uncased   (https://huggingface.co/allenai/scibert_scivocab_uncased)
 
-bert-base-uncased \href{https://huggingface.co/bert-base-uncased}
-scibert-base-uncased
+## Train 
+
+You can start training by setting the **base model** and **dataset** \
+`python train.py --bert_model model_name --dataset_mode dataset_name`
