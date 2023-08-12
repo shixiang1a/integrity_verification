@@ -2,12 +2,13 @@
 
 This is the code for the article *Integrity Verification for Scientific Papers: The first exploration of the text*.
 
+![markdown picture](https://github.com/shixiang1a/integrity_verification/blob/main/model_INTEGER.png)
 
 ## Dataset
 
-* INTEGER-WCL
-* INTEGER-AI
-* INTEGER-SYM
+* **INTEGER-WCL**  Multidisciplinary domain dataset. It contains only one type of term and its corresponding definition.
+* **INTEGER-AI**   AI domain dataset. It contains one type of term (i.e., symbol) and the corresponding value and definition description.
+* **INTEGER-SYM**  AI domain dataset. It contains multiple types of terms (e.g., method, application) and various descriptions (e.g., definition, characteristic, statement).
   
 ## Base Model
 
