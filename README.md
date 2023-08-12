@@ -15,7 +15,7 @@ This is the code for the article *Integrity Verification for Scientific Papers: 
 * bert-base-cased   (https://huggingface.co/bert-base-cased) 
 * scibert-base-uncased   (https://huggingface.co/allenai/scibert_scivocab_uncased)
 
-## Enviroment
+## Environment
 ```
 python=3.8.12
 pytorch=2.0.1
