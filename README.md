@@ -13,13 +13,22 @@ This is the code for the article *Integrity Verification for Scientific Papers: 
 * bert-base-cased   (https://huggingface.co/bert-base-cased) 
 * scibert-base-uncased   (https://huggingface.co/allenai/scibert_scivocab_uncased)
 
+## Enviroment
+```
+python=3.8.12
+pytorch=2.0.1
+transformers=4.24.0
+cudatoolkit=11.8
+numpy=1.24.4
+```
+
 ## Train 
 
 You can start training by setting the base model and dataset 
 ```
 python train.py --bert_model model_name --dataset_mode dataset_name
 ```
-Also, you can change the model for **INTER** or **NER**
+Also, you can change the model for **INTEGER** or **NER**
 ```
 python train.py --model_mode InterF or InterF_ent
 ```
