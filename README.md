@@ -1,12 +1,12 @@
-# Integrity Verification (INTER)
+# Integrity Verification (INTEGER)
 
 This is the code for the article *Integrity Verification for Scientific Papers: The first exploration of the text*.
 
 ## Dataset
 
-* INTER-WCL
-* INTER-AI
-* INTER-SYM
+* INTEGER-WCL
+* INTEGER-AI
+* INTEGER-SYM
   
 ## Base Model
 
